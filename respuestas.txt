@@ -26,3 +26,7 @@
     D -> 255.255.255.0
 16#
     D -> dirección = 192.168.85.128 || broadcast = 192.168.85.191
+17#
+    *sin responder*
+18#
+    B -> 128 subredes y 512 hosts
