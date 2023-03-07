@@ -30,3 +30,5 @@
     *sin responder*
 18#
     B -> 128 subredes y 512 hosts
+20#
+    D -> 255.255.254.0
