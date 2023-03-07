@@ -16,3 +16,5 @@
     E -> Ninguna de las respuestas es correcta
 10#
     A -> 255.0.0.0
+12#
+    D -> dirección = 172.18.64.0 || broadcast = 172.18.71.255
