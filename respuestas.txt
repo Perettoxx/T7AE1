@@ -14,3 +14,5 @@
     B -> 128 subredes con 510 hosts
 8.2#
     E -> Ninguna de las respuestas es correcta
+10#
+    A -> 255.0.0.0
